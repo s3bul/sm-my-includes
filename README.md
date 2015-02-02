@@ -1,3 +1,6 @@
+# UWAGA! #
+Tylko dla developerów (skrypterów).
+
 # Instalacja #
 Wszystkie pliki (my_*.inc) należy wrzuciś do folderu "include" przed folderami z pluginami.
 
