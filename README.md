@@ -2,9 +2,9 @@
 Tylko dla developerów (skrypterów).
 
 # Instalacja #
-Wszystkie pliki (my_*.inc) należy wrzuciś do folderu "include" przed folderami z pluginami.
+Wszystkie pliki `my_*.inc` należy wrzucić do folderu "include" przed folderami z pluginami.
 
-Przykładowa struktura
+Przykładowa struktura folderów
 	
 	Pluginy SM/
 		Pierwszy testowy plugin/
