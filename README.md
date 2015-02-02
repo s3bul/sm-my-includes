@@ -2,7 +2,7 @@
 Tylko dla developerów (skrypterów).
 
 # Instalacja #
-Wszystkie pliki `my_*.inc` należy wrzucić do folderu "include" przed folderami z pluginami.
+Wszystkie pliki `*.inc` należy wrzucić do folderu "include" przed folderami z pluginami.
 
 Przykładowa struktura folderów
 	
@@ -20,4 +20,4 @@ Przykładowa struktura folderów
 				scripting/
 					drugi_testowy_plugin.sp
 		include/
-			my_*.inc
+			*.inc
